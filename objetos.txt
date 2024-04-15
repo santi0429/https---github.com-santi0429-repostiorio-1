@@ -1,0 +1,4 @@
+1-ventana
+2-silla
+3-puerta
+4-mesa 
